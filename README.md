@@ -23,6 +23,7 @@ with
 Don't forget to define your WiFi credentials in the <config.h>
 
 <hr>
+## Agreement
 If you want to use my mod, you confirm the following:<BR>
 No guarantee, no warranty !<BR>
 You do all at your own risk !<BR>
