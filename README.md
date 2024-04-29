@@ -7,6 +7,7 @@ For me this firmware design in it's form is not acceptable, because it continual
 
 My solution to bring back the PA to a usable condition: I take the control over the main control signals like BIAS on/off and RX/TX relais with my own ESP32 controller and changed PA switch logic, which fix this "issue" completly. The "issue" is gone after my mod.
 Additional I replace with this modification the automatic band detection through band select with bandvoltage output from the Hermes-Lite 2.
+That means, you LOST the automatic band selection through the frequency detection.
 
 ## Webdashboard as option
 
@@ -21,7 +22,6 @@ with
 </code>
 Don't forget to define your WiFi credentials in the <config.h>
 
-My mod is only allowed under this condition, because my mod remove the protection, which is causing the issue with SSB. A wrong band selection can damage the LPF capacitors !
 <hr>
 If you want to use my mod, you confirm the following:<BR>
 No guarantee, no warranty !<BR>
