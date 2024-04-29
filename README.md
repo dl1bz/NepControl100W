@@ -26,6 +26,8 @@ __Don't forget to define your WiFi credentials in the <config.h>__
 
 ## Requirements
 
+- the code was developed with the Arduino IDE 2.x and the additional ESP32 board extensions, you need the .ino file and all .h files in the same folder
+- the config.h is the central project configuration file, look in for changes if needed 
 - all is tested only with a WAVESHARE ESP32-S3 Zero
 - for programming this ESP32-S3 Zero look in the Wiki at WAVESHAREs website, there are some special features to consider
 - you know how to work with the Arduino IDE &  install additional libraries
