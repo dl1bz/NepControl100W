@@ -15,7 +15,7 @@ Default this option is deactivated. If you want to use it, you need change in Ne
 <code>
 // #define DASHBOARD
 </code>
-with<br>
+with
 <code>
 #define DASHBOARD
 </code>
