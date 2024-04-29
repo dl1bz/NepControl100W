@@ -24,6 +24,13 @@ with
 </code>
 Don't forget to define your WiFi credentials in the <config.h>
 
+## Requirements
+
+- all is tested only with a WAVESHARE ESP32-S3 Zero
+- for programming this ESP32-S3 Zero look in the Wiki at WAVESHAREs website, there are some special features to consider
+- you know how to work with the Arduino IDE, additional libraries
+- you can read and understand schematics
+
 <hr>
 
 ## Agreement
