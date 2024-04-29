@@ -9,6 +9,8 @@ My solution to bring back the PA to a usable condition: I take the control over 
 Additional I replace with this modification the automatic band detection through band select with bandvoltage output from the Hermes-Lite 2.<br>
 That means, you LOST the original automatic band selection through the frequency detection. But with bandvoltage as option an automatic band select is back again.
 
+All code refers to my schematic. You need to look in for understand all.
+
 ## Webdashboard as option
 
 I implement Wifi and a webdashboard for show the status of the amp in a webbrowser as an option.<br>
@@ -30,4 +32,5 @@ If you want to use my mod, you confirm the following:<BR>
 No guarantee, no warranty !<BR>
 You do all at your own risk !<BR>
 You know, what you do and why !<BR>
-Only for use in amateur radio, because you need to be a licensed hamradio operator !
+Only for use in amateur radio, because you need to be a licensed hamradio operator !<br>
+This code is free for personal use, but commercial use is not allowed !
