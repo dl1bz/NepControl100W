@@ -7,7 +7,7 @@ For me this firmware design in it's form is not acceptable, because it continual
 
 My solution to bring back the PA to a usable condition: I take the control over the main control signals like BIAS on/off and RX/TX relais with my own ESP32 controller and changed PA switch logic, which fix this "issue" completly. The "issue" is gone after my mod.<br>
 Additional I replace with this modification the automatic band detection through band select with bandvoltage output from the Hermes-Lite 2.<br>
-That means, you LOST the automatic band selection through the frequency detection.
+That means, you LOST the original automatic band selection through the frequency detection. But with bandvoltage as option an automatic band select is back again.
 
 ## Webdashboard as option
 
