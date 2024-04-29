@@ -52,8 +52,8 @@ unsigned long timerDelay = 500; // in ms, 1000 = 1s
 // const char* ssid = "YOUR_SSID";
 // const char* password = "YOUR_WIFI_PASSWORD";
 
-const char* ssid = "IT-SVC-13CM";
-const char* password = "y44tldg2dra";
+const char* ssid = "YOUR_WIFI_SSID";
+const char* password = "YOUR_WIFI_PASSWORD";
 
 const char* hostname = "NEPTUNE-PA";             // define hostname for network
 const char* ntpServer = "192.53.103.108";        // define NTP server you will use
