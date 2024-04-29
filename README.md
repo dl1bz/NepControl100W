@@ -22,7 +22,7 @@ with
 <code>
 #define DASHBOARD
 </code>
-Don't forget to define your WiFi credentials in the <config.h>
+__Don't forget to define your WiFi credentials in the <config.h>__
 
 ## Requirements
 
