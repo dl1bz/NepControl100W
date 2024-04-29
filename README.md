@@ -13,7 +13,7 @@ All code refers to my schematic. You need to look in for understand all.
 
 ## Webdashboard as option
 
-I implement Wifi and a webdashboard for show the status of the amp in a webbrowser as an option.<br>
+I implement Wifi and a webserver with websockets for show the status of the amp in a webbrowser as an option.<br>
 Default this option is deactivated. If you want to use it, you need change in NepControl100W.ino this:
 <code>
 // #define DASHBOARD
