@@ -9,7 +9,7 @@ My solution to bring back the PA to a usable condition: I take the control over 
 Additional I replace with this modification the automatic band detection through band select with bandvoltage output from the Hermes-Lite 2.<br>
 That means, you LOST the original automatic band selection through the frequency detection. But with bandvoltage as option an automatic band select is back again.
 
-All code refers to my schematic. You need to look in for understand all.
+__All code refers to my schematic. You need to look in for understand all.__
 
 ## Webdashboard as option
 
